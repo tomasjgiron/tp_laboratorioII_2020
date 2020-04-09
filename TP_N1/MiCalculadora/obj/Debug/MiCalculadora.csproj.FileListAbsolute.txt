@@ -1,0 +1,13 @@
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N1\MiCalculadora\obj\Debug\MiCalculadora.pdb

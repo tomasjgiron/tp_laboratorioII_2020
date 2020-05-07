@@ -31,3 +31,13 @@ C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N2\TP-02 - Alumno\TP-
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.exe
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\TP_N2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete

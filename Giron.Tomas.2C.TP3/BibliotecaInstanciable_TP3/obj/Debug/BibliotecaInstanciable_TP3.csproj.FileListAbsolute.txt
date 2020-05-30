@@ -1,0 +1,13 @@
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\BibliotecaInstanciable_TP3.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\BibliotecaInstanciable_TP3.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\BibliotecaArchivos_TP3.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\Biblioteca_TP3.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\Excepciones_TP3.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\BibliotecaArchivos_TP3.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\Biblioteca_TP3.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\bin\Debug\Excepciones_TP3.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\obj\Debug\BibliotecaInstanciable_TP3.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\obj\Debug\BibliotecaInstanciable_TP3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\obj\Debug\BibliotecaInstanciable_TP3.csproj.CopyComplete
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\obj\Debug\BibliotecaInstanciable_TP3.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\BibliotecaInstanciable_TP3\obj\Debug\BibliotecaInstanciable_TP3.pdb

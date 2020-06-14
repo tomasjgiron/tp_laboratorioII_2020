@@ -27,7 +27,7 @@ namespace BibliotecaInstanciable_TP3
         /// <summary>
         /// Constructor por defecto de Alumno
         /// </summary>
-        public Alumno() : base()
+        public Alumno()
         {
         }
 

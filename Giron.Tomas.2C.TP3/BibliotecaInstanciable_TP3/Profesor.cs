@@ -27,10 +27,13 @@ namespace BibliotecaInstanciable_TP3
         }
 
         /// <summary>
-        /// Constructor por defecto de Profesor
+        /// Constructor por defecto de Profesor - se vuelve a inicializar la queue para poder deserializar Universidad correctamente
         /// </summary>
-        public Profesor() : base()
+        public Profesor()
         {
+            this.claseDelDia = new Queue<EClases>();
+            _randomClases();
+            _randomClases();
         }
 
         /// <summary>

@@ -27,6 +27,18 @@ namespace BibliotecaArchivos_TP3
                     retorno = true;
                 }
             }
+            catch (NotSupportedException ex)
+            {
+                throw new ArchivosException(ex);
+            }
+            catch (IOException ex)
+            {
+                throw new ArchivosException(ex);
+            }
+            catch (ObjectDisposedException ex)
+            {
+                throw new ArchivosException(ex);
+            }
             catch (Exception ex)
             {
                 throw new ArchivosException(ex);
@@ -52,6 +64,14 @@ namespace BibliotecaArchivos_TP3
                     datos = reader.ReadToEnd();
                     retorno = true;
                 }
+            }
+            catch (IOException ex)
+            {
+                throw new ArchivosException(ex);
+            }
+            catch (OutOfMemoryException ex)
+            {
+                throw new ArchivosException(ex);
             }
             catch (Exception ex)
             {

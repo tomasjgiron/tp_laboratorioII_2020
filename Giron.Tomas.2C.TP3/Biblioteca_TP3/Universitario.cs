@@ -15,7 +15,7 @@ namespace EntidadesAbstractas
         /// <summary>
         /// Constructor por defecto de Universitario
         /// </summary>
-        public Universitario() : base()
+        public Universitario()
         {
         }
 

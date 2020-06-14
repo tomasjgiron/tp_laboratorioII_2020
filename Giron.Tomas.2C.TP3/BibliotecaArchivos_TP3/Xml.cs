@@ -20,8 +20,6 @@ namespace BibliotecaArchivos_TP3
         public bool Guardar(string archivo, T datos)
         {
             bool retorno = false;
-
-
             try
             {
                 XmlSerializer serializador = new XmlSerializer(typeof(T));
@@ -30,6 +28,10 @@ namespace BibliotecaArchivos_TP3
                     serializador.Serialize(writer, datos);
                     retorno = true;
                 }
+            }
+            catch (InvalidOperationException ex)
+            {
+                throw new ArchivosException(ex);
             }
             catch (Exception ex)
             {
@@ -47,16 +49,18 @@ namespace BibliotecaArchivos_TP3
         public bool Leer(string archivo, out T datos)
         {
             bool retorno = false;
-
-
             try
             {
-                XmlSerializer serializador = new XmlSerializer(typeof(string));
+                XmlSerializer serializador = new XmlSerializer(typeof(T));
                 using (XmlTextReader reader = new XmlTextReader(archivo))
                 {
                     datos = (T)serializador.Deserialize(reader);
                     retorno = true;
                 }
+            }
+            catch (InvalidOperationException ex)
+            {
+                throw new ArchivosException(ex);
             }
             catch (Exception ex)
             {

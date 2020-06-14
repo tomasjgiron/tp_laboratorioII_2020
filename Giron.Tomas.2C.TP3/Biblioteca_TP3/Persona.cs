@@ -12,6 +12,9 @@ namespace EntidadesAbstractas
     {
         #region Atributos y Propiedades
         private string nombre;
+        private string apellido;
+        private ENacionalidad nacionalidad;
+        private int dni;
 
         public string Nombre
         {
@@ -19,15 +22,22 @@ namespace EntidadesAbstractas
             set { this.nombre = ValidarNombreApellido(value); }
         }
 
-        private string apellido;
-
         public string Apellido
         {
             get { return this.apellido; }
             set { this.apellido = ValidarNombreApellido(value); }
         }
 
-        private int dni;
+        public ENacionalidad Nacionalidad
+        {
+            get { return this.nacionalidad; }
+            set { this.nacionalidad = value; }
+        }
+
+        public string StringToDNI
+        {
+            set { this.dni = ValidarDni(this.nacionalidad, value); }
+        }
 
         public int DNI
         {
@@ -40,19 +50,6 @@ namespace EntidadesAbstractas
                     dni = value;
                 }
             }
-        }
-
-        public string StringToDNI
-        {
-            set { this.dni = ValidarDni(this.nacionalidad, value); }
-        }
-
-        private ENacionalidad nacionalidad;
-
-        public ENacionalidad Nacionalidad
-        {
-            get { return this.nacionalidad; }
-            set { this.nacionalidad = value; }
         }
         #endregion
 

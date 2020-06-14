@@ -4,3 +4,9 @@ C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\Excep
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.csproj.CoreCompileInputs.cache
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.dll
 C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\bin\Debug\Excepciones_TP3.dll
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\bin\Debug\Excepciones_TP3.pdb
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.dll
+C:\Users\tomas\Desktop\tp_laboratorioII_2020\Giron.Tomas.2C.TP3\Excepciones_TP3\obj\Debug\Excepciones_TP3.pdb

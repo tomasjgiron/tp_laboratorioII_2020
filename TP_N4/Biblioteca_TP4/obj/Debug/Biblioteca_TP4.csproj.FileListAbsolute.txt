@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\bin\Debug\Biblioteca_TP4.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\bin\Debug\Biblioteca_TP4.pdb
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\obj\Debug\Biblioteca_TP4.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\obj\Debug\Biblioteca_TP4.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\obj\Debug\Biblioteca_TP4.dll
+C:\Users\tomas\Desktop\Labo-Prog-II-2020\TP_LaboII_2020\TP_N4\Biblioteca_TP4\obj\Debug\Biblioteca_TP4.pdb

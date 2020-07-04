@@ -31,7 +31,14 @@ namespace Formulario_TP4
             pack.InformarEstado += this.paq_InformaEstado;
             try
             {
-                correo += pack;
+                if (txtDireccion.Text != string.Empty && mtxtTrackingID.Text != string.Empty)
+                {
+                    correo += pack;
+                }
+                else
+                {
+                    MessageBox.Show("Ingrese los datos para agregar el paquete", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
             catch (Exception ex)
             {
